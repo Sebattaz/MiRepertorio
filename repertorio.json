@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "cancion": "Bohemian Rhapsody",
+    "artista": "Queen",
+    "tono": "Rock"
+  },
+  {
+    "id": 2,
+    "cancion": "Shape of You",
+    "artista": "Ed Sheeran",
+    "tono": "Pop"
+  },
+  {
+    "id": 3,
+    "cancion": "Blinding Lights",
+    "artista": "The Weeknd",
+    "tono": "Synthwave"
+  },
+  {
+    "id": 4,
+    "cancion": "Hallelujah",
+    "artista": "Leonard Cohen",
+    "tono": "Folk"
+  },
+  {
+    "id": 5,
+    "cancion": "Smells Like Teen Spirit",
+    "artista": "Nirvana",
+    "tono": "Grunge"
+  }
+]
